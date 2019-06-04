@@ -27,3 +27,6 @@
 
 9.项目grab_suningBook  
 从苏宁抓取苏宁图书信息
+
+9.项目curriculum_design_qianchengwuyou  
+python课程设计 爬取前程无忧大数据职位信息
